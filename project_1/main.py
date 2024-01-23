@@ -5,6 +5,10 @@ from datetime import datetime
 import csv
 
 
+# Poprawność zadań: 10/11
+# Dodatki: 1.5/2
+# Znormalizowane: 0,8846153846
+
 def ex_1():
     print('Zadanie 1')
     for a in range(1, 101):
